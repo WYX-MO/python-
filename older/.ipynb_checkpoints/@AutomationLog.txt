@@ -1,0 +1,2 @@
+2025-03-23 23:16:34.210 Wechat.py[57] <module> -> Find Control Timeout(10s): {Name: 'qq', ControlType: WindowControl}
+2025-03-24 19:01:51.912 Wechat.py[13] <module> -> Find Control Timeout(10s): {Name: 'QQ', ControlType: WindowControl}
